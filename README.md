@@ -24,5 +24,5 @@ This repository provides a Papermill-controlled pipeline (scripts 00-08, noteboo
 <br>
 <br>
 
-The [publication_data](publication_data/) folder contains all the data from the samples used to publish the journal paper IOD: ********
+The [publication_data](publication_data/) folder contains an excel file with all the data from the samples used to publish the journal paper IOD: ********
 

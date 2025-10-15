@@ -4,6 +4,8 @@
 
 This repository provides a Papermill-controlled pipeline (scripts 00-08, notebooks A-D) for modeling pore structures in biological tissues from medical images. It includes three post-processing scripts for calculating area, volume, and performing statistical analyses.
 
+
+
 ## <p align="center"><b>Steps to take</b></p>
 
 1- run papermil A on all the sample → choose the lower threshold of the pores for each \
@@ -16,3 +18,4 @@ This repository provides a Papermill-controlled pipeline (scripts 00-08, noteboo
 6- run papermil E → get the mechanical properties
 
 
+<hr style="border:1px solid #ccc;"/>

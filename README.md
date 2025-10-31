@@ -8,7 +8,7 @@ This repository provides a Papermill-controlled pipeline (scripts 00-08, noteboo
 
 ## <p align="center"><b>How To Use The Tool</b></p>
 
-0- Download the [python_codes](python_codes/) folder and add your samples to a subdirectory there\
+0- Download the [python_codes_folder](python_codes/) and add your samples to a subdirectory there\
 1- run papermil A on all the sample → choose the lower threshold of the pores for each \
 2- use the chosen thresholding method for each sample and run papermil B →  choose the upper threshold of the pores \
 3- run code 04 for each sample → create the L marks\

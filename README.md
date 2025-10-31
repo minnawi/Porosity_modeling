@@ -22,7 +22,7 @@ This repository provides a Papermill-controlled pipeline (scripts 00-08, noteboo
 <br>
 <br>
 
-Note: Elasticity_regression
+Note: [Elasticity_regression_code](python_codes/Elasticity_regression.ipynb/) and [Strength_regression_code](python_codes/Strength_regression.ipynb) were used to combine the Young's modulus and ultimate strength equations from literature into one equation
 
 
 <hr style="border:1px solid #ccc;"/>

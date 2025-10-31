@@ -17,6 +17,12 @@ This repository provides a Papermill-controlled pipeline (scripts 00-08, noteboo
 
 5- run papermil D → get the morphological results\
 6- run papermil E → get the mechanical properties
+7- (optional) to calculate Mechanical Properties, run the [area_volume_code](python_codes/area_volume-calculation.ipynb/) to get the specific surface area and plug it to the excel sheet
+<br>
+<br>
+<br>
+
+Note: Elasticity_regression
 
 
 <hr style="border:1px solid #ccc;"/>

@@ -30,5 +30,5 @@ Note: [Elasticity_regression_code](python_codes/Elasticity_regression.ipynb/) an
 <br>
 <br>
 
-The [publication_data](publication_data/) folder contains an excel file with all the data from the samples used to publish the journal paper IOD: ********
+The [publication_data](publication_data/) folder contains an excel file with all the data from the samples used to publish the journal paper DOI: ********
 
